@@ -2,7 +2,7 @@
 
   # Blockchain illustration with multiple transactions") 
 
-    By Y.X. Yan, v1.0, 1/10/2023
+    By Y.X. Yan, v1.0, 1/3/2023
 
    A blockchain is a distributed database or ledger that is shared among 
 
