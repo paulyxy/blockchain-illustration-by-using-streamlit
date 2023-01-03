@@ -1,0 +1,6 @@
+pandas
+streamlit
+hashlib
+typing
+datetime
+dataclasses
